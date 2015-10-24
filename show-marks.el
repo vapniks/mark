@@ -9,7 +9,7 @@
 ;; Version: 0.4
 ;; Last-Updated: 2013-08-05 15:48:00
 ;;           By: Joe Bloggs
-;; URL: https://github.com/vapniks/mark
+;; URL: https://github.com/vapniks/show-marks
 ;; Keywords: convenience
 ;; Compatibility: GNU Emacs 24.3.1
 ;; Package-Requires: ((fm "1.0"))
